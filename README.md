@@ -1,6 +1,6 @@
 # YouTube-Sentiment-Analysis
 
-Scrape all the YouTube comments using api.
+Scrape all the YouTube comments using api , and filter the comments
 
 ## Description :
 This project works by scraping YouTube comments and identify the sentiment of comments.
